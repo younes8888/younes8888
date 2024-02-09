@@ -1,16 +1,16 @@
-### Hi there 👋
+## About me
 
-<!--
+
 **younes8888/younes8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey all, it's Younes
+I am in the middle of a career-switch to become a full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Aspirations 🥇
+- Upgrade my toolkit to become a professional developer
+- Brush up my communication skills
+- Sharpen my problem-solving skills
+
+### My contact details
+Email Address: seddouki.younes@gmail.com
+  
